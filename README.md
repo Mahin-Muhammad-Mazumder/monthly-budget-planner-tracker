@@ -1,4 +1,4 @@
-# Apex Wealth Manager
+#  Monthly-budget-planner-tracker
 
 **Institutional-Grade, Local-First Personal Finance & Capital Allocation Terminal**  
 *Architected & Built by M. Mahin*
@@ -13,7 +13,7 @@
 
 ## Overview
 
-**Apex Wealth Manager** is a high-density personal finance and zero-based capital allocation web application designed with the precision of an institutional financial terminal. Inspired by modern fintech platforms like Copilot Money, Monarch Money, and YNAB, it separates fixed obligations from variable burn velocity to compute real-time safe-to-spend allowances, deterministic financial health scores, and automated month-end reserve rollovers.
+** Monthly-budget-planner-tracker** is a high-density personal finance and zero-based capital allocation web application designed with the precision of an institutional financial terminal. Inspired by modern fintech platforms like Copilot Money, Monarch Money, and YNAB, it separates fixed obligations from variable burn velocity to compute real-time safe-to-spend allowances, deterministic financial health scores, and automated month-end reserve rollovers.
 
 All financial state is stored locally in the browser (`localStorage` under `apex_wealth_v1`) for complete data privacy, paired with full JSON import/export portability and an AI portfolio advisor (**Warren**) powered by the Google Gemini API.
 
