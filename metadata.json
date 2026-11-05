@@ -1,0 +1,6 @@
+{
+  "name": "Apex Wealth Manager",
+  "description": "High-density local-first personal finance command center by M. Mahin featuring zero-based budgeting, variable burn-rate velocity, multi-month archives, and Warren AI capital allocation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
